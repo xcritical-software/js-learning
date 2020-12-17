@@ -13,14 +13,17 @@
 
 ## React
 
+* Документация: [React](https://reactjs.org/docs/getting-started.html) - Оффициальная документация 
 * Статья: [React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/) - Хорошая статья про поведение render в React. 
 * Практический курс: [React JS - путь самурая](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8) - Это очень большой бесплатный практический курс на русском. В нём объясняется всё. Подойдёт совсем новичкам. Весь курс проходится за 2 месяца. Пока что ещё актуален. Раскрывается React, Redux, middleWare, HOC, REST, Аутентификация, Формы и валидация. 
+
 ## Redux
 
 * Документация: [Redux](https://redux.js.org/) - Оффициальная документация
 * Статья: [Introducing: Redux Hooks](https://itnext.io/introducing-redux-hooks-1bf9c568ecc2) - Про хуки Redux.
 * Практический курс: [Redux. Полный Курс 2020](https://www.youtube.com/watch?v=YdYyYMFPa44) - Практический пример, в котором автор предлагает вместе с ним написать Redux.
 * Документация: [Redux Toolkit](https://redux-toolkit.js.org/) - Инструмент для работы с библиотекой Redux.
+
 ## Redux-saga
 
 * Документация: [Redux-saga](https://redux-saga.js.org/) - Оффициальная документация
